@@ -28,7 +28,4 @@ I'm a **student at 1337**, part of the **42 Network**, where I focus on developi
 - [LinkedIn](https://www.linkedin.com/in/mouad-najjar-0260a7276/)  
 - [Email](mailto:mouadnj54@gmail.com)  
 
-## 😄 Pronouns  
-He/Him  
-
 ---
